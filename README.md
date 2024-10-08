@@ -32,16 +32,8 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 
 ## Output 
 
-![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/register.png)
-![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/login.png)
-![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/Details.png)
-![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/PIN.png)
-![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/Deposit1.png)
-![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/Withdraw.png)
-![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/fundtransfer.png)
-![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/fundtransfer2.png)
-![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/TransactionHistory.png)
-![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/Features.png)
+![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/Features.gif)
+
 
 ## Set Up Environment:
 
@@ -84,3 +76,6 @@ Contributions are welcome! Please follow these guidelines:
 - Additional Features: Implement features like budgeting, bill payments, and investment tracking.
 - Mobile App: Develop a mobile app for on-the-go access.
 - Integration: Integrate with other financial services (e.g., payment gateways, credit bureaus).
+
+
+
