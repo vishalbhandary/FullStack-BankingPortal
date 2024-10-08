@@ -33,7 +33,7 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 ## Output 
 
 ![image](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/Features.gif)
-![gif](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/login.png)
+![gif](https://github.com/vishalbhandary/FullStack-BankingPortal/blob/master/BankingPortalAPI-main/assets/history.png)
 
 
 ## Set Up Environment:
